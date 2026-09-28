@@ -3,7 +3,7 @@
 ✨ [Clicca qui per vedere il mio Progetto online!](https://lindachioda.github.io/Observable-HTTPcall/)
 
 
-###🛠️ Tecnologie Utilizzate
+**🛠️ Tecnologie utilizzate:**
 
 * Angular
 * TypeScript
